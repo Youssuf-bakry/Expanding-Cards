@@ -15,5 +15,5 @@
 
 ### For Demo
 
-This was a nice fast practising provided by ![brad traversy](https://www.linkedin.com/in/bradtraversy/)
-This is the ![course](https://www.udemy.com/course/50-projects-50-days/)
+This was a nice fast practising provided by [brad traversy](https://www.linkedin.com/in/bradtraversy/)
+This is the [course](https://www.udemy.com/course/50-projects-50-days/)
