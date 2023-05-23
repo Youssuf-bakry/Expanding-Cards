@@ -1,6 +1,6 @@
 # Expanding Cards
 
-![ScreenShot]("https://th.bing.com/th/id/OIP.sQNe1E--1usgyH7bY-ftMgHaFQ?pid=ImgDet&rs=1")
+![ScreenShot](https://th.bing.com/th/id/OIP.sQNe1E--1usgyH7bY-ftMgHaFQ?pid=ImgDet&rs=1)
 
 ### Quick Practicing on Basic skills.
 
